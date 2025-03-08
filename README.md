@@ -23,7 +23,7 @@
 
 ![好看的](image/好看的.jpg)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp) | [! 
- [jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=Reslove&theme=dark)](https://github.com/JasonkayZK/jasonkayzk/)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp) 
+
 
 
