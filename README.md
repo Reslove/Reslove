@@ -1,4 +1,4 @@
-## Hi Welcome to my Profile , I'm [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Reslove.
+## Hi Welcome to my Profile , I'm <img=src https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Reslove./>
 
 
 
