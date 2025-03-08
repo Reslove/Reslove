@@ -23,7 +23,9 @@
 
 ![好看的](image/好看的.jpg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+<p>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  
+![Visitor Count](https://profile-counter.glitch.me/Reslove/count.svg)
+</p>
 
 
