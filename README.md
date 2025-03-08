@@ -1,4 +1,4 @@
-## Hi Welcome to my Profile , I'm Reslove
+## Hi Welcome to my Profile , I'm [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Reslove.
 
 
 
@@ -23,4 +23,4 @@
 
 ![好看的](image/好看的.jpg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Reslove.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reslove&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)  
