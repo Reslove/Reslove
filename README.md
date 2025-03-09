@@ -2,7 +2,7 @@
 
 
 
- -🎓A college student trying to study</br>
+ -🎓Just An oridinary student</br>
  -🤔Now learned ☁cloud copmuting</br>
  -😄Hobby:ACG astronomy badminton Rhythm game</br>
  -📫Reach me Email:2086321602@qq.com QQ:2086321602</br>
